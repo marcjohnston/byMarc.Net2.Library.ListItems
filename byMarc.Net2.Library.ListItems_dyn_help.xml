@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="byMarc.Net2.Library.ListItems" Title="byMarc.Net2.Library.ListItems Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ISelectListItem.Enabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000003.html" LinkGroup="byMarc.Net2.Library.ListItems">Enabled Property {byMarc.Net2.Library.ListItems.ISelectListItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.SelectListItem.Enabled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000013.html" LinkGroup="byMarc.Net2.Library.ListItems">Enabled Property {byMarc.Net2.Library.ListItems.SelectListItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItemsLib.EnumerationToListItems" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_000000000000000A.html" LinkGroup="byMarc.Net2.Library.ListItems">EnumerationToListItems Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ISelectListItem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000000.html" LinkGroup="byMarc.Net2.Library.ListItems">ISelectListItem Interface</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItemsLib.ItemExists" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_000000000000000B.html" LinkGroup="byMarc.Net2.Library.ListItems">ItemExists Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000004.html" LinkGroup="byMarc.Net2.Library.ListItems">ListItem Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItem.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000008.html" LinkGroup="byMarc.Net2.Library.ListItems">ListItem Constructor {byMarc.Net2.Library.ListItems.ListItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItemsLib" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000009.html" LinkGroup="byMarc.Net2.Library.ListItems">ListItemsLib Class</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.SelectListItem.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_000000000000001A_overloads--.html" LinkGroup="byMarc.Net2.Library.ListItems">New </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.SelectListItem.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000017_overloads--.html" LinkGroup="byMarc.Net2.Library.ListItems">New </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.SelectListItem.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000018_overloads--.html" LinkGroup="byMarc.Net2.Library.ListItems">New </LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.SelectListItem.New" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000019_overloads--.html" LinkGroup="byMarc.Net2.Library.ListItems">New </LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.SelectListItem" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000012.html" LinkGroup="byMarc.Net2.Library.ListItems">SelectListItem Class</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItemsLib.Sort" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_000000000000000D_overloads--.html" LinkGroup="byMarc.Net2.Library.ListItems">Sort Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItemsLib.Sort" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_000000000000000C_overloads--.html" LinkGroup="byMarc.Net2.Library.ListItems">Sort Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItemsLib.Sort" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_000000000000000F_overloads--.html" LinkGroup="byMarc.Net2.Library.ListItems">Sort Method</LItem>
+      </Links>
+   </Context>
+   
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItemsLib.Sort" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_000000000000000E_overloads--.html" LinkGroup="byMarc.Net2.Library.ListItems">Sort Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.SortEnum" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_000000000000001B.html" LinkGroup="byMarc.Net2.Library.ListItems">SortEnum Enumeration</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItem.Text" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000005.html" LinkGroup="byMarc.Net2.Library.ListItems">Text Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ISelectListItem.Text" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000002.html" LinkGroup="byMarc.Net2.Library.ListItems">Text Property {byMarc.Net2.Library.ListItems.ISelectListItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.SelectListItem.Text" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000014.html" LinkGroup="byMarc.Net2.Library.ListItems">Text Property {byMarc.Net2.Library.ListItems.SelectListItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItem.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000007.html" LinkGroup="byMarc.Net2.Library.ListItems">ToString Method {byMarc.Net2.Library.ListItems.ListItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.SelectListItem.ToString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000015.html" LinkGroup="byMarc.Net2.Library.ListItems">ToString Method {byMarc.Net2.Library.ListItems.SelectListItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ListItem.Value" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000006.html" LinkGroup="byMarc.Net2.Library.ListItems">Value Field</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.ISelectListItem.Value" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000001.html" LinkGroup="byMarc.Net2.Library.ListItems">Value Property {byMarc.Net2.Library.ListItems.ISelectListItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems.SelectListItem.Value" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000016.html" LinkGroup="byMarc.Net2.Library.ListItems">Value Property {byMarc.Net2.Library.ListItems.SelectListItem}</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_0000000000000020.html" LinkGroup="byMarc.Net2.Library.ListItems">byMarc.Net2.Library.ListItems Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="byMarc.Net2.Library.ListItems Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:byMarc.Net2.Library.ListItems.chm::/topic_000000000000001F.html" LinkGroup="byMarc.Net2.Library.ListItems">byMarc.Net2.Library.ListItems Reference</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+
